@@ -51,7 +51,7 @@ If the password is incorrect, the alarm continues and may be configured to lock 
 
 ## Code
 
-📄 [Download the Arduino Code](https://github.com/ferrindsouza/anti-burglar-security-system/blob/main/Door_lock_project.ino)
+📄 [Download the Arduino Code](https://github.com/ferrindsouza/anti-burglar-security-system/blob/main/Anti-burglar-system.ino)
 
 > You can open the `.ino` file using the Arduino IDE. Adjust pin numbers based on your specific circuit configuration.
 
